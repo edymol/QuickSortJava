@@ -17,7 +17,7 @@ public class Main {
    System.out.println("Sorted Array in Ascending Order: \n"); 
    System.out.println(Arrays.toString(data)+"\n"); 
    System.out.println("Sorting was completed in: " ); 
-   Quicksort.display();
+   Quicksort.display(); // this line will print the number of steps
    System.out.println("Steps!"); 
 
    } 
